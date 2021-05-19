@@ -1,0 +1,40 @@
+.Movie {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin : 8px;
+}
+
+.Container {
+    /* border: 2px solid black; */
+    display: flex;
+    padding: 5px;
+    align-content: top;
+    text-align:left;
+}
+
+.Poster {
+    /* border: 3px solid red; */
+}
+
+.Info {
+    display:inline-block;
+    margin: 0px;
+    /* border: 3px solid green; */
+    padding: 5px;
+    text-align: left;
+    
+}
+
+.Info-inner {
+    padding: 4px;
+    font-size :18px;
+}
+
+.Title {
+    font-size : 30px;
+}
+.Rec {
+    margin : 8px;
+    padding: 4px;
+    font-size :18px;
+}

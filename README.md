@@ -1,4 +1,4 @@
--	Project : Movie Recommender
+# Project : Movie Recommender
 -	Goal : Provide movie recommendations based on available data.
 -	Data : The Movie Database API and Netflix Dataset
 -	Implemented Solution : Movie recommendations made with the use of Natural Language Processing and similarity concept between movie overviews, genres and titles 
